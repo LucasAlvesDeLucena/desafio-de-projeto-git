@@ -1,5 +1,5 @@
 # desafio deprojeto git/Dio
 primeiro-projeto-repositorio
 
-## pastas para estudos
+## tes
 [teste_teste](pastateste)
