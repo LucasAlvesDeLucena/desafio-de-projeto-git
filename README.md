@@ -2,4 +2,4 @@
 primeiro-projeto-repositorio
 
 ## pasta para estudo
-[teste_teste](Introduçao do curso)
+[Introduçao-do-curso](Introduçao-do-curso)
