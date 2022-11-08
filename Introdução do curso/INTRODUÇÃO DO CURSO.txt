@@ -1,0 +1,53 @@
+00:45 06/11/2022
+
+Front End:
+ desevolve o app com linguagem java script,css,Html, usando ferramentas (IDE)
+EX: VSCODE DA MICROSOFT.
+
+Framework: [Ferramenta] {Angular}, simplificador de desevolvimento Front End.java script,css,Html
+[Ferramenta] {Spring}, simplificar simplificador de desevolvimento {Java} Back End,
+[Ferramenta] {Vue.js}, "simplificador de desevolvimento Front End.java script"
+  
+
+Back End: cuida da parte do servidor, EX: trabalha fazendo a ponte entre os dados que vem do navegador
+rumo ao banco de dados e vice-versa.EX: JAVA, PHPe C#.
+
+FULL Stack: desevolvedor que conhece tanto a parte {front End como a Back End} 	
+
+
+
+Desevolvimenta Mobile: [Ferramenta] JAVA e/ou KOTLIN
+{Ferramenta de trabalho} Android Studio
+
+Portugol webstudio: ferramenta para treina e desenvolve algoritimos
+
+
+EX: SOMA_DE ENTEVALOS
+
+1 programa {
+2    funcao inicio() {
+3        real a, b, nota_a, nota_b
+4        escreva ("Digite as notas da p1 e p2 do aluno A ")
+5        leia(a)
+6        leia(b)
+7        escreva ("Digite as notas da p1 e p2 do aluno B ")
+8        leia(nota_a)
+9        leia(nota_b)
+10
+11       escreva("Média do aluno A: ", media_aluno(a, b))
+12       escreva("\nMédia do aluno B: ", media_aluno(nota_a, nota_b))
+13    }
+14
+15    funcao real media_aluno(real nota_a, real nota_b){
+16        returne (nota_a + nota_b)/2
+17    
+18    }
+19 }
+20
+
+                                 [EXECUTAR]	
+
+
+
+
+
